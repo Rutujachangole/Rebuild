@@ -1,0 +1,47 @@
+.recoverr{
+    width: 1440px;
+    height: 1112px;
+    top: 890px;
+}
+
+.recover{
+    background-color: azure;
+    width: 658px;
+    height: 658px;
+    position: absolute;
+    top: 227px;
+    left: 391px;
+    radius:10px
+    
+}
+
+.recover-logo{
+    width: 92px;
+    height: 92px;
+    margin-left: 300px;
+    position: absolute;
+    top: 104px;
+}
+
+.recover-title{
+    margin-left: 300px;
+    position: absolute;
+    top: 254px;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 2px;
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+
+}
+
+.email-content{
+    width: 104px;
+    height: 22px;
+    position: absolute;
+    top: 373px;
+    left: 469px;
+    gap: 0px;
+    opacity: 0px;
+    align-items: center;
+}
