@@ -13,9 +13,9 @@ function Recover() {
       <div className='email-address'>
         
         <p className='email-content'> Email Address</p>
-        <input type="text" placeholder='example@gmail.com'></input>
+        <input className='mailaddress' type="text" placeholder='example@gmail.com'></input>
         <div>
-            <button>Reset Your Password</button>
+            <button className='btn'>Reset Your Password</button>
         </div>
         
       </div>
