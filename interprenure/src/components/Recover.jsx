@@ -15,8 +15,9 @@ function Recover() {
         <p className='email-content'> Email Address</p>
         <input className='mailaddress' type="text" placeholder='example@gmail.com'></input>
         <div>
-            <button className='btn'>Reset Your Password</button>
+            <button onClick={() => alert('Verification Code Send to Your Email!')} className='btn'>Reset Your Password</button>
         </div>
+
         
       </div>
 
